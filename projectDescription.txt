@@ -1,0 +1,6 @@
+Create A NFT(Non-Fungible-Token) or SBT(Soul-Bound-Token) Minting Solution to issue 100 Certificates on a Binance Test Network through an excel sheet 
+having the fields, Name, Rank(1 to 100), Recognition Type(30 in Gold Category, 30 in Silver Category and 40 in Bronze Category).
+Each certificate must have a common design format, 
+name & logo of issuing organisation(Web3Nest Metaverse), 
+Name Of Issuing Person(Your Name), 
+Signature(Hand based signature).
